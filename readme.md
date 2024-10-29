@@ -48,4 +48,6 @@ The above might work for Docker on Windows
 
 - `http://localhost:5000/swagger`
 
+## GitHub Actions build
 
+- Github Actions Implemented
