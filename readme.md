@@ -2,8 +2,6 @@
 
 This codebase was created to demonstrate a fully fledged fullstack application built with ASP.NET Core (with Feature orientation) including CRUD operations, authentication, routing, pagination, and more.
 
-We've gone to great lengths to adhere to the ASP.NET Core community styleguides & best practices.
-
 
 ## How it works
 
